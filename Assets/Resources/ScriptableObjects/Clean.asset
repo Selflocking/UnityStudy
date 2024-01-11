@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d86197ed33b06440acf505695da8651, type: 3}
+  m_Name: Clean
+  m_EditorClassIdentifier: 
+  TaskName: "\u6E05\u7406\u8352\u91CE"
+  TaskType: 2
+  TaskTarget: "\u6D88\u706D\u6240\u6709\u9AB7\u9AC5\u5175"
+  TaskDescription: "\u8352\u91CE\u4E0A\u9AB7\u9AC5\u8086\u8650\u4E0D\u6B62\uFF0C\u5BF9\u4EBA\u7C7B\u7684\u751F\u5B58\u9020\u6210\u4E86\u6781\u5927\u7684\u5F71\u54CD\uFF0C\u8BF7\u4F60\u6E05\u7A7A\u8352\u91CE\u4E0A\u7684\u9AB7\u9AC5\u5175\u3002"
+  TaskProgress: 0
+  TaskGoal: 5
+  RewardItems:
+  - {fileID: 11400000, guid: 65a915f73221c0c4cba0bda7c8100148, type: 2}
+  - {fileID: 11400000, guid: ecd7b9513f3ac2741b92bed44ff544ea, type: 2}
+  - {fileID: 11400000, guid: f2b428020e186044fac40c1e1a9f9890, type: 2}
+  RewardAmounts: 640000001e00000005000000
